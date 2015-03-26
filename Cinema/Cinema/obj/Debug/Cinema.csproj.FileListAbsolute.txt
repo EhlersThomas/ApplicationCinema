@@ -1,0 +1,9 @@
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.Cache
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\EHLERST_INFO\Desktop\ATBDO\Cinema\Cinema\obj\Debug\Cinema.Home.resources

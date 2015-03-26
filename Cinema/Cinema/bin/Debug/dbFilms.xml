@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFilmItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FilmItem>
+    <id>1</id>
+    <titre>Les chevaliers du ciel</titre>
+    <Duree>PT1H47M</Duree>
+  </FilmItem>
+  <FilmItem>
+    <id>2</id>
+    <titre>Thor</titre>
+    <Duree>PT1H54M</Duree>
+  </FilmItem>
+  <FilmItem>
+    <id>3</id>
+    <titre>BIS</titre>
+    <Duree>PT1H42M</Duree>
+  </FilmItem>
+  <FilmItem>
+    <id>4</id>
+    <titre>Papa ou maman</titre>
+    <Duree>PT1H25M</Duree>
+  </FilmItem>
+  <FilmItem>
+    <id>5</id>
+    <titre>Annie</titre>
+    <Duree>PT1H59M</Duree>
+  </FilmItem>
+</ArrayOfFilmItem>
