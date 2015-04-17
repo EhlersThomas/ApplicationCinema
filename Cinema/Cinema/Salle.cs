@@ -13,29 +13,57 @@ namespace Cinema
     public struct SalleItem
     {
         public int id;
-        
         public List<SiegeItem> list_siege;
+        public SiegeItem get_siege(int id)
+        {
+            for (int i = 0; i < list_siege.Count; i++ )
+            {
+                if (list_siege[i].id == id)
+                    return list_siege[i];
+            }
+            SiegeItem x = new SiegeItem();
+            x.id = -1;
+            return x;
+            
+        }
 
-     
+
+        internal void change_siege_state(int id, bool p)
+        {
+            for (int i = 0; i < list_siege.Count; i++)
+            {
+                if (list_siege[i].id == id)
+                {
+                    SiegeItem s = list_siege[i];
+                    s.free = false;
+                    list_siege[i] = s;
+                }
+            }
+        }
     };
     public struct SiegeItem
     {
         public int id;
         public int rang;
         public int no;
+        public bool free;
     };
     class Salle
     {
         private Controller controller;
         private List<SalleItem> list_salle;
-        private List<SiegeItem> list_siege;
+
+        public List<SalleItem> List_salle
+        {
+            get { return list_salle; }
+            set { list_salle = value; }
+        }
          
         string xml_filename = "dbSalles.xml";
         public Salle(Controller controller)
         {
             this.controller = controller;
             list_salle = new List<SalleItem>();
-            list_siege = new List<SiegeItem>();
         }
 
         public void ImportFromCSV(string filename)
@@ -60,8 +88,7 @@ namespace Cinema
                 line_data = line.Split(',');
 
                 item.id = Convert.ToInt32(line_data[0]);
-                AjouterSiege(Convert.ToInt32(line_data[1]), Convert.ToInt32(line_data[2]));
-                item.list_siege = list_siege;
+                item.list_siege = AjouterSiege(Convert.ToInt32(line_data[1]), Convert.ToInt32(line_data[2]));
                 list_salle.Add(item);
             }
 
@@ -78,8 +105,9 @@ namespace Cinema
             serializer.Serialize(stream_writer, list_salle);
             stream_writer.Close();
         }
-        public void AjouterSiege(int nbRang, int nbSiege)
+        public List<SiegeItem> AjouterSiege(int nbRang, int nbSiege)
         {
+            List<SiegeItem> l = new List<SiegeItem>();
             int rang = 1;
             int no = 1;
             SiegeItem siege;
@@ -89,15 +117,17 @@ namespace Cinema
                 siege.id = i + 1;
                 siege.no = no;
                 siege.rang = rang;
+                siege.free = true;
                 if(no == nbSiege)
                 {
                     rang++;
                     no = 0;
                 }
                 
-                list_siege.Add(siege);
+                l.Add(siege);
                 no++;
             }
+            return l;
         }
 
         //Get the data in dbSalles.xml
@@ -110,6 +140,18 @@ namespace Cinema
                 list_salle = (List<SalleItem>)serializer.Deserialize(file);
                 file.Close();
             }
+        }
+
+        public SalleItem get_salle(int id)
+        {
+            foreach(SalleItem s in List_salle)
+            {
+                if (s.id == id)
+                    return s;
+            }
+            SalleItem si = new SalleItem();
+            si.id = -1;
+            return si;
         }
     }
 }

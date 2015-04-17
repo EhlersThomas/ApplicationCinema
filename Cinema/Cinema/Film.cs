@@ -14,10 +14,10 @@ namespace Cinema
     {
         public int id;
         public string titre;
-
+        
         [XmlIgnore]
         public TimeSpan duree;
-
+        
         [Browsable(false)]
         [XmlElement(DataType = "duration", ElementName = "Duree")]
         public string DureeString

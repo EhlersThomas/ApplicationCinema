@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cinema.Salle">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAAAAAAAgAGAAAAAAEAAAAAAAAAAAAQAAAAIAAA=</HashCode>
+      <FileName>Salle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinema.Home">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAwCIAAAAmAACAQggCAAACCAQAAAQAAAAAAAA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinema.Film">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAAAAAAAEAAAAAAACAAAAAgAAAAAQAAAAIAAA=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinema.Controller">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAQAACAAEAA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Cinema.SalleItem">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Salle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Cinema.SiegeItem">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Salle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Cinema.FilmItem">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAgA=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

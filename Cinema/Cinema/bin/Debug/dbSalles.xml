@@ -7,2001 +7,1801 @@
         <id>1</id>
         <rang>1</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>2</id>
         <rang>1</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>3</id>
         <rang>1</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>4</id>
         <rang>1</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>5</id>
         <rang>1</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>6</id>
         <rang>1</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>7</id>
         <rang>1</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>8</id>
         <rang>1</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>9</id>
         <rang>1</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>10</id>
         <rang>1</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>11</id>
         <rang>1</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>12</id>
         <rang>1</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>13</id>
         <rang>1</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>14</id>
         <rang>1</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>15</id>
         <rang>1</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>16</id>
         <rang>2</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>17</id>
         <rang>2</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>18</id>
         <rang>2</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>19</id>
         <rang>2</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>20</id>
         <rang>2</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>21</id>
         <rang>2</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>22</id>
         <rang>2</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>23</id>
         <rang>2</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>24</id>
         <rang>2</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>25</id>
         <rang>2</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>26</id>
         <rang>2</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>27</id>
         <rang>2</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>28</id>
         <rang>2</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>29</id>
         <rang>2</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>30</id>
         <rang>2</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>31</id>
         <rang>3</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>32</id>
         <rang>3</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>33</id>
         <rang>3</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>34</id>
         <rang>3</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>35</id>
         <rang>3</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>36</id>
         <rang>3</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>37</id>
         <rang>3</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>38</id>
         <rang>3</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>39</id>
         <rang>3</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>40</id>
         <rang>3</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>41</id>
         <rang>3</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>42</id>
         <rang>3</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>43</id>
         <rang>3</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>44</id>
         <rang>3</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>45</id>
         <rang>3</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>46</id>
         <rang>4</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>47</id>
         <rang>4</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>48</id>
         <rang>4</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>49</id>
         <rang>4</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>50</id>
         <rang>4</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>51</id>
         <rang>4</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>52</id>
         <rang>4</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>53</id>
         <rang>4</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>54</id>
         <rang>4</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>55</id>
         <rang>4</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>56</id>
         <rang>4</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>57</id>
         <rang>4</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>58</id>
         <rang>4</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>59</id>
         <rang>4</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>60</id>
         <rang>4</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>61</id>
         <rang>5</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>62</id>
         <rang>5</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>63</id>
         <rang>5</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>64</id>
         <rang>5</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>65</id>
         <rang>5</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>66</id>
         <rang>5</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>67</id>
         <rang>5</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>68</id>
         <rang>5</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>69</id>
         <rang>5</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>70</id>
         <rang>5</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>71</id>
         <rang>5</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>72</id>
         <rang>5</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>73</id>
         <rang>5</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>74</id>
         <rang>5</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>75</id>
         <rang>5</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>76</id>
         <rang>6</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>77</id>
         <rang>6</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>78</id>
         <rang>6</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>79</id>
         <rang>6</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>80</id>
         <rang>6</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>81</id>
         <rang>6</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>82</id>
         <rang>6</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>83</id>
         <rang>6</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>84</id>
         <rang>6</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>85</id>
         <rang>6</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>86</id>
         <rang>6</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>87</id>
         <rang>6</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>88</id>
         <rang>6</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>89</id>
         <rang>6</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>90</id>
         <rang>6</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>91</id>
         <rang>7</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>92</id>
         <rang>7</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>93</id>
         <rang>7</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>94</id>
         <rang>7</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>95</id>
         <rang>7</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>96</id>
         <rang>7</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>97</id>
         <rang>7</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>98</id>
         <rang>7</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>99</id>
         <rang>7</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>100</id>
         <rang>7</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>101</id>
         <rang>7</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>102</id>
         <rang>7</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>103</id>
         <rang>7</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>104</id>
         <rang>7</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>105</id>
         <rang>7</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>106</id>
         <rang>8</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>107</id>
         <rang>8</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>108</id>
         <rang>8</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>109</id>
         <rang>8</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>110</id>
         <rang>8</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>111</id>
         <rang>8</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>112</id>
         <rang>8</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>113</id>
         <rang>8</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>114</id>
         <rang>8</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>115</id>
         <rang>8</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>116</id>
         <rang>8</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>117</id>
         <rang>8</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>118</id>
         <rang>8</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>119</id>
         <rang>8</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>120</id>
         <rang>8</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>121</id>
         <rang>9</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>122</id>
         <rang>9</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>123</id>
         <rang>9</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>124</id>
         <rang>9</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>125</id>
         <rang>9</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>126</id>
         <rang>9</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>127</id>
         <rang>9</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>128</id>
         <rang>9</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>129</id>
         <rang>9</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>130</id>
         <rang>9</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>131</id>
         <rang>9</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>132</id>
         <rang>9</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>133</id>
         <rang>9</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>134</id>
         <rang>9</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>135</id>
         <rang>9</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>136</id>
         <rang>10</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>137</id>
         <rang>10</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>138</id>
         <rang>10</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>139</id>
         <rang>10</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>140</id>
         <rang>10</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>141</id>
         <rang>10</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>142</id>
         <rang>10</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>143</id>
         <rang>10</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>144</id>
         <rang>10</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>145</id>
         <rang>10</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>146</id>
         <rang>10</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>147</id>
         <rang>10</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>148</id>
         <rang>10</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>149</id>
         <rang>10</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>150</id>
         <rang>10</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>151</id>
         <rang>11</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>152</id>
         <rang>11</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>153</id>
         <rang>11</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>154</id>
         <rang>11</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>155</id>
         <rang>11</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>156</id>
         <rang>11</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>157</id>
         <rang>11</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>158</id>
         <rang>11</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>159</id>
         <rang>11</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>160</id>
         <rang>11</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>161</id>
         <rang>11</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>162</id>
         <rang>11</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>163</id>
         <rang>11</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>164</id>
         <rang>11</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>165</id>
         <rang>11</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>166</id>
         <rang>12</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>167</id>
         <rang>12</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>168</id>
         <rang>12</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>169</id>
         <rang>12</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>170</id>
         <rang>12</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>171</id>
         <rang>12</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>172</id>
         <rang>12</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>173</id>
         <rang>12</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>174</id>
         <rang>12</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>175</id>
         <rang>12</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>176</id>
         <rang>12</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>177</id>
         <rang>12</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>178</id>
         <rang>12</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>179</id>
         <rang>12</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>180</id>
         <rang>12</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>181</id>
         <rang>13</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>182</id>
         <rang>13</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>183</id>
         <rang>13</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>184</id>
         <rang>13</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>185</id>
         <rang>13</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>186</id>
         <rang>13</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>187</id>
         <rang>13</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>188</id>
         <rang>13</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>189</id>
         <rang>13</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>190</id>
         <rang>13</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>191</id>
         <rang>13</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>192</id>
         <rang>13</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>193</id>
         <rang>13</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>194</id>
         <rang>13</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>195</id>
         <rang>13</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>196</id>
         <rang>14</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>197</id>
         <rang>14</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>198</id>
         <rang>14</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>199</id>
         <rang>14</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>200</id>
         <rang>14</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>201</id>
         <rang>14</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>202</id>
         <rang>14</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>203</id>
         <rang>14</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>204</id>
         <rang>14</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>205</id>
         <rang>14</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>206</id>
         <rang>14</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>207</id>
         <rang>14</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>208</id>
         <rang>14</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>209</id>
         <rang>14</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>210</id>
         <rang>14</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>211</id>
         <rang>15</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>212</id>
         <rang>15</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>213</id>
         <rang>15</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>214</id>
         <rang>15</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>215</id>
         <rang>15</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>216</id>
         <rang>15</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>217</id>
         <rang>15</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>218</id>
         <rang>15</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>219</id>
         <rang>15</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>220</id>
         <rang>15</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>221</id>
         <rang>15</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>222</id>
         <rang>15</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>223</id>
         <rang>15</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>224</id>
         <rang>15</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>225</id>
         <rang>15</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>226</id>
         <rang>16</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>227</id>
         <rang>16</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>228</id>
         <rang>16</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>229</id>
         <rang>16</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>230</id>
         <rang>16</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>231</id>
         <rang>16</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>232</id>
         <rang>16</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>233</id>
         <rang>16</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>234</id>
         <rang>16</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>235</id>
         <rang>16</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>236</id>
         <rang>16</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>237</id>
         <rang>16</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>238</id>
         <rang>16</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>239</id>
         <rang>16</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>240</id>
         <rang>16</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>241</id>
         <rang>17</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>242</id>
         <rang>17</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>243</id>
         <rang>17</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>244</id>
         <rang>17</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>245</id>
         <rang>17</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>246</id>
         <rang>17</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>247</id>
         <rang>17</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>248</id>
         <rang>17</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>249</id>
         <rang>17</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>250</id>
         <rang>17</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>251</id>
         <rang>17</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>252</id>
         <rang>17</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>253</id>
         <rang>17</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>254</id>
         <rang>17</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>255</id>
         <rang>17</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>256</id>
         <rang>18</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>257</id>
         <rang>18</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>258</id>
         <rang>18</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>259</id>
         <rang>18</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>260</id>
         <rang>18</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>261</id>
         <rang>18</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>262</id>
         <rang>18</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>263</id>
         <rang>18</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>264</id>
         <rang>18</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>265</id>
         <rang>18</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>266</id>
         <rang>18</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>267</id>
         <rang>18</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>268</id>
         <rang>18</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>269</id>
         <rang>18</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>270</id>
         <rang>18</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>271</id>
         <rang>19</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>272</id>
         <rang>19</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>273</id>
         <rang>19</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>274</id>
         <rang>19</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>275</id>
         <rang>19</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>276</id>
         <rang>19</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>277</id>
         <rang>19</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>278</id>
         <rang>19</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>279</id>
         <rang>19</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>280</id>
         <rang>19</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>281</id>
         <rang>19</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>282</id>
         <rang>19</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>283</id>
         <rang>19</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>284</id>
         <rang>19</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>285</id>
         <rang>19</rang>
         <no>15</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>286</id>
         <rang>20</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>287</id>
         <rang>20</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>288</id>
         <rang>20</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>289</id>
         <rang>20</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>290</id>
         <rang>20</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>291</id>
         <rang>20</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>292</id>
         <rang>20</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>293</id>
         <rang>20</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>294</id>
         <rang>20</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>295</id>
         <rang>20</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>296</id>
         <rang>20</rang>
         <no>11</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>297</id>
         <rang>20</rang>
         <no>12</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>298</id>
         <rang>20</rang>
         <no>13</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>299</id>
         <rang>20</rang>
         <no>14</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>300</id>
         <rang>20</rang>
         <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>1</id>
-        <rang>1</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>2</id>
-        <rang>1</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>3</id>
-        <rang>1</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>4</id>
-        <rang>1</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>5</id>
-        <rang>1</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>6</id>
-        <rang>1</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>7</id>
-        <rang>1</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>8</id>
-        <rang>1</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>9</id>
-        <rang>1</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>10</id>
-        <rang>1</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>11</id>
-        <rang>2</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>12</id>
-        <rang>2</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>13</id>
-        <rang>2</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>14</id>
-        <rang>2</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>15</id>
-        <rang>2</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>16</id>
-        <rang>2</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>17</id>
-        <rang>2</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>18</id>
-        <rang>2</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>19</id>
-        <rang>2</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>20</id>
-        <rang>2</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>21</id>
-        <rang>3</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>22</id>
-        <rang>3</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>23</id>
-        <rang>3</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>24</id>
-        <rang>3</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>25</id>
-        <rang>3</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>26</id>
-        <rang>3</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>27</id>
-        <rang>3</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>28</id>
-        <rang>3</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>29</id>
-        <rang>3</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>30</id>
-        <rang>3</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>31</id>
-        <rang>4</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>32</id>
-        <rang>4</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>33</id>
-        <rang>4</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>34</id>
-        <rang>4</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>35</id>
-        <rang>4</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>36</id>
-        <rang>4</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>37</id>
-        <rang>4</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>38</id>
-        <rang>4</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>39</id>
-        <rang>4</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>40</id>
-        <rang>4</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>41</id>
-        <rang>5</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>42</id>
-        <rang>5</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>43</id>
-        <rang>5</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>44</id>
-        <rang>5</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>45</id>
-        <rang>5</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>46</id>
-        <rang>5</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>47</id>
-        <rang>5</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>48</id>
-        <rang>5</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>49</id>
-        <rang>5</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>50</id>
-        <rang>5</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>51</id>
-        <rang>6</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>52</id>
-        <rang>6</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>53</id>
-        <rang>6</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>54</id>
-        <rang>6</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>55</id>
-        <rang>6</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>56</id>
-        <rang>6</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>57</id>
-        <rang>6</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>58</id>
-        <rang>6</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>59</id>
-        <rang>6</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>60</id>
-        <rang>6</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>61</id>
-        <rang>7</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>62</id>
-        <rang>7</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>63</id>
-        <rang>7</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>64</id>
-        <rang>7</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>65</id>
-        <rang>7</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>66</id>
-        <rang>7</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>67</id>
-        <rang>7</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>68</id>
-        <rang>7</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>69</id>
-        <rang>7</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>70</id>
-        <rang>7</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>71</id>
-        <rang>8</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>72</id>
-        <rang>8</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>73</id>
-        <rang>8</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>74</id>
-        <rang>8</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>75</id>
-        <rang>8</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>76</id>
-        <rang>8</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>77</id>
-        <rang>8</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>78</id>
-        <rang>8</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>79</id>
-        <rang>8</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>80</id>
-        <rang>8</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>81</id>
-        <rang>9</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>82</id>
-        <rang>9</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>83</id>
-        <rang>9</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>84</id>
-        <rang>9</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>85</id>
-        <rang>9</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>86</id>
-        <rang>9</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>87</id>
-        <rang>9</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>88</id>
-        <rang>9</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>89</id>
-        <rang>9</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>90</id>
-        <rang>9</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>91</id>
-        <rang>10</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>92</id>
-        <rang>10</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>93</id>
-        <rang>10</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>94</id>
-        <rang>10</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>95</id>
-        <rang>10</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>96</id>
-        <rang>10</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>97</id>
-        <rang>10</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>98</id>
-        <rang>10</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>99</id>
-        <rang>10</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>100</id>
-        <rang>10</rang>
-        <no>10</no>
+        <free>true</free>
       </SiegeItem>
     </list_siege>
   </SalleItem>
@@ -2012,2001 +1812,601 @@
         <id>1</id>
         <rang>1</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>2</id>
         <rang>1</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>3</id>
         <rang>1</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>4</id>
         <rang>1</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>5</id>
         <rang>1</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>6</id>
         <rang>1</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>7</id>
         <rang>1</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>8</id>
         <rang>1</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>9</id>
         <rang>1</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>10</id>
         <rang>1</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>11</id>
-        <rang>1</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>12</id>
-        <rang>1</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>13</id>
-        <rang>1</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>14</id>
-        <rang>1</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>15</id>
-        <rang>1</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>16</id>
         <rang>2</rang>
         <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>17</id>
-        <rang>2</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>18</id>
-        <rang>2</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>19</id>
-        <rang>2</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>20</id>
-        <rang>2</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>21</id>
-        <rang>2</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>22</id>
-        <rang>2</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>23</id>
-        <rang>2</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>24</id>
-        <rang>2</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>25</id>
-        <rang>2</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>26</id>
-        <rang>2</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>27</id>
-        <rang>2</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>28</id>
-        <rang>2</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>29</id>
-        <rang>2</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>30</id>
-        <rang>2</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>31</id>
-        <rang>3</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>32</id>
-        <rang>3</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>33</id>
-        <rang>3</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>34</id>
-        <rang>3</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>35</id>
-        <rang>3</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>36</id>
-        <rang>3</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>37</id>
-        <rang>3</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>38</id>
-        <rang>3</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>39</id>
-        <rang>3</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>40</id>
-        <rang>3</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>41</id>
-        <rang>3</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>42</id>
-        <rang>3</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>43</id>
-        <rang>3</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>44</id>
-        <rang>3</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>45</id>
-        <rang>3</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>46</id>
-        <rang>4</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>47</id>
-        <rang>4</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>48</id>
-        <rang>4</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>49</id>
-        <rang>4</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>50</id>
-        <rang>4</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>51</id>
-        <rang>4</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>52</id>
-        <rang>4</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>53</id>
-        <rang>4</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>54</id>
-        <rang>4</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>55</id>
-        <rang>4</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>56</id>
-        <rang>4</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>57</id>
-        <rang>4</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>58</id>
-        <rang>4</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>59</id>
-        <rang>4</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>60</id>
-        <rang>4</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>61</id>
-        <rang>5</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>62</id>
-        <rang>5</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>63</id>
-        <rang>5</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>64</id>
-        <rang>5</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>65</id>
-        <rang>5</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>66</id>
-        <rang>5</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>67</id>
-        <rang>5</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>68</id>
-        <rang>5</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>69</id>
-        <rang>5</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>70</id>
-        <rang>5</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>71</id>
-        <rang>5</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>72</id>
-        <rang>5</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>73</id>
-        <rang>5</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>74</id>
-        <rang>5</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>75</id>
-        <rang>5</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>76</id>
-        <rang>6</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>77</id>
-        <rang>6</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>78</id>
-        <rang>6</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>79</id>
-        <rang>6</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>80</id>
-        <rang>6</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>81</id>
-        <rang>6</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>82</id>
-        <rang>6</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>83</id>
-        <rang>6</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>84</id>
-        <rang>6</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>85</id>
-        <rang>6</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>86</id>
-        <rang>6</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>87</id>
-        <rang>6</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>88</id>
-        <rang>6</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>89</id>
-        <rang>6</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>90</id>
-        <rang>6</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>91</id>
-        <rang>7</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>92</id>
-        <rang>7</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>93</id>
-        <rang>7</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>94</id>
-        <rang>7</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>95</id>
-        <rang>7</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>96</id>
-        <rang>7</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>97</id>
-        <rang>7</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>98</id>
-        <rang>7</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>99</id>
-        <rang>7</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>100</id>
-        <rang>7</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>101</id>
-        <rang>7</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>102</id>
-        <rang>7</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>103</id>
-        <rang>7</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>104</id>
-        <rang>7</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>105</id>
-        <rang>7</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>106</id>
-        <rang>8</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>107</id>
-        <rang>8</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>108</id>
-        <rang>8</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>109</id>
-        <rang>8</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>110</id>
-        <rang>8</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>111</id>
-        <rang>8</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>112</id>
-        <rang>8</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>113</id>
-        <rang>8</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>114</id>
-        <rang>8</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>115</id>
-        <rang>8</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>116</id>
-        <rang>8</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>117</id>
-        <rang>8</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>118</id>
-        <rang>8</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>119</id>
-        <rang>8</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>120</id>
-        <rang>8</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>121</id>
-        <rang>9</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>122</id>
-        <rang>9</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>123</id>
-        <rang>9</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>124</id>
-        <rang>9</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>125</id>
-        <rang>9</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>126</id>
-        <rang>9</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>127</id>
-        <rang>9</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>128</id>
-        <rang>9</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>129</id>
-        <rang>9</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>130</id>
-        <rang>9</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>131</id>
-        <rang>9</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>132</id>
-        <rang>9</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>133</id>
-        <rang>9</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>134</id>
-        <rang>9</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>135</id>
-        <rang>9</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>136</id>
-        <rang>10</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>137</id>
-        <rang>10</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>138</id>
-        <rang>10</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>139</id>
-        <rang>10</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>140</id>
-        <rang>10</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>141</id>
-        <rang>10</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>142</id>
-        <rang>10</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>143</id>
-        <rang>10</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>144</id>
-        <rang>10</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>145</id>
-        <rang>10</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>146</id>
-        <rang>10</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>147</id>
-        <rang>10</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>148</id>
-        <rang>10</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>149</id>
-        <rang>10</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>150</id>
-        <rang>10</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>151</id>
-        <rang>11</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>152</id>
-        <rang>11</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>153</id>
-        <rang>11</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>154</id>
-        <rang>11</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>155</id>
-        <rang>11</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>156</id>
-        <rang>11</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>157</id>
-        <rang>11</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>158</id>
-        <rang>11</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>159</id>
-        <rang>11</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>160</id>
-        <rang>11</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>161</id>
-        <rang>11</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>162</id>
-        <rang>11</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>163</id>
-        <rang>11</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>164</id>
-        <rang>11</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>165</id>
-        <rang>11</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>166</id>
-        <rang>12</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>167</id>
-        <rang>12</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>168</id>
-        <rang>12</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>169</id>
-        <rang>12</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>170</id>
-        <rang>12</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>171</id>
-        <rang>12</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>172</id>
-        <rang>12</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>173</id>
-        <rang>12</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>174</id>
-        <rang>12</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>175</id>
-        <rang>12</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>176</id>
-        <rang>12</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>177</id>
-        <rang>12</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>178</id>
-        <rang>12</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>179</id>
-        <rang>12</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>180</id>
-        <rang>12</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>181</id>
-        <rang>13</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>182</id>
-        <rang>13</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>183</id>
-        <rang>13</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>184</id>
-        <rang>13</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>185</id>
-        <rang>13</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>186</id>
-        <rang>13</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>187</id>
-        <rang>13</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>188</id>
-        <rang>13</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>189</id>
-        <rang>13</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>190</id>
-        <rang>13</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>191</id>
-        <rang>13</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>192</id>
-        <rang>13</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>193</id>
-        <rang>13</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>194</id>
-        <rang>13</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>195</id>
-        <rang>13</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>196</id>
-        <rang>14</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>197</id>
-        <rang>14</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>198</id>
-        <rang>14</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>199</id>
-        <rang>14</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>200</id>
-        <rang>14</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>201</id>
-        <rang>14</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>202</id>
-        <rang>14</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>203</id>
-        <rang>14</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>204</id>
-        <rang>14</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>205</id>
-        <rang>14</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>206</id>
-        <rang>14</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>207</id>
-        <rang>14</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>208</id>
-        <rang>14</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>209</id>
-        <rang>14</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>210</id>
-        <rang>14</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>211</id>
-        <rang>15</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>212</id>
-        <rang>15</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>213</id>
-        <rang>15</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>214</id>
-        <rang>15</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>215</id>
-        <rang>15</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>216</id>
-        <rang>15</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>217</id>
-        <rang>15</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>218</id>
-        <rang>15</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>219</id>
-        <rang>15</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>220</id>
-        <rang>15</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>221</id>
-        <rang>15</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>222</id>
-        <rang>15</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>223</id>
-        <rang>15</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>224</id>
-        <rang>15</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>225</id>
-        <rang>15</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>226</id>
-        <rang>16</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>227</id>
-        <rang>16</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>228</id>
-        <rang>16</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>229</id>
-        <rang>16</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>230</id>
-        <rang>16</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>231</id>
-        <rang>16</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>232</id>
-        <rang>16</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>233</id>
-        <rang>16</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>234</id>
-        <rang>16</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>235</id>
-        <rang>16</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>236</id>
-        <rang>16</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>237</id>
-        <rang>16</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>238</id>
-        <rang>16</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>239</id>
-        <rang>16</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>240</id>
-        <rang>16</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>241</id>
-        <rang>17</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>242</id>
-        <rang>17</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>243</id>
-        <rang>17</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>244</id>
-        <rang>17</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>245</id>
-        <rang>17</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>246</id>
-        <rang>17</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>247</id>
-        <rang>17</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>248</id>
-        <rang>17</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>249</id>
-        <rang>17</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>250</id>
-        <rang>17</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>251</id>
-        <rang>17</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>252</id>
-        <rang>17</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>253</id>
-        <rang>17</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>254</id>
-        <rang>17</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>255</id>
-        <rang>17</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>256</id>
-        <rang>18</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>257</id>
-        <rang>18</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>258</id>
-        <rang>18</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>259</id>
-        <rang>18</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>260</id>
-        <rang>18</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>261</id>
-        <rang>18</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>262</id>
-        <rang>18</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>263</id>
-        <rang>18</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>264</id>
-        <rang>18</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>265</id>
-        <rang>18</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>266</id>
-        <rang>18</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>267</id>
-        <rang>18</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>268</id>
-        <rang>18</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>269</id>
-        <rang>18</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>270</id>
-        <rang>18</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>271</id>
-        <rang>19</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>272</id>
-        <rang>19</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>273</id>
-        <rang>19</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>274</id>
-        <rang>19</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>275</id>
-        <rang>19</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>276</id>
-        <rang>19</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>277</id>
-        <rang>19</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>278</id>
-        <rang>19</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>279</id>
-        <rang>19</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>280</id>
-        <rang>19</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>281</id>
-        <rang>19</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>282</id>
-        <rang>19</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>283</id>
-        <rang>19</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>284</id>
-        <rang>19</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>285</id>
-        <rang>19</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>286</id>
-        <rang>20</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>287</id>
-        <rang>20</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>288</id>
-        <rang>20</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>289</id>
-        <rang>20</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>290</id>
-        <rang>20</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>291</id>
-        <rang>20</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>292</id>
-        <rang>20</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>293</id>
-        <rang>20</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>294</id>
-        <rang>20</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>295</id>
-        <rang>20</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>296</id>
-        <rang>20</rang>
-        <no>11</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>297</id>
-        <rang>20</rang>
-        <no>12</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>298</id>
-        <rang>20</rang>
-        <no>13</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>299</id>
-        <rang>20</rang>
-        <no>14</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>300</id>
-        <rang>20</rang>
-        <no>15</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>1</id>
-        <rang>1</rang>
-        <no>1</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>2</id>
-        <rang>1</rang>
-        <no>2</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>3</id>
-        <rang>1</rang>
-        <no>3</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>4</id>
-        <rang>1</rang>
-        <no>4</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>5</id>
-        <rang>1</rang>
-        <no>5</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>6</id>
-        <rang>1</rang>
-        <no>6</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>7</id>
-        <rang>1</rang>
-        <no>7</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>8</id>
-        <rang>1</rang>
-        <no>8</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>9</id>
-        <rang>1</rang>
-        <no>9</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>10</id>
-        <rang>1</rang>
-        <no>10</no>
-      </SiegeItem>
-      <SiegeItem>
-        <id>11</id>
-        <rang>2</rang>
-        <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>12</id>
         <rang>2</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>13</id>
         <rang>2</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>14</id>
         <rang>2</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>15</id>
         <rang>2</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>16</id>
         <rang>2</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>17</id>
         <rang>2</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>18</id>
         <rang>2</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>19</id>
         <rang>2</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>20</id>
         <rang>2</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>21</id>
         <rang>3</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>22</id>
         <rang>3</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>23</id>
         <rang>3</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>24</id>
         <rang>3</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>25</id>
         <rang>3</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>26</id>
         <rang>3</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>27</id>
         <rang>3</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>28</id>
         <rang>3</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>29</id>
         <rang>3</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>30</id>
         <rang>3</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>31</id>
         <rang>4</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>32</id>
         <rang>4</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>33</id>
         <rang>4</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>34</id>
         <rang>4</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>35</id>
         <rang>4</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>36</id>
         <rang>4</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>37</id>
         <rang>4</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>38</id>
         <rang>4</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>39</id>
         <rang>4</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>40</id>
         <rang>4</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>41</id>
         <rang>5</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>42</id>
         <rang>5</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>43</id>
         <rang>5</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>44</id>
         <rang>5</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>45</id>
         <rang>5</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>46</id>
         <rang>5</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>47</id>
         <rang>5</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>48</id>
         <rang>5</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>49</id>
         <rang>5</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>50</id>
         <rang>5</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>51</id>
         <rang>6</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>52</id>
         <rang>6</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>53</id>
         <rang>6</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>54</id>
         <rang>6</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>55</id>
         <rang>6</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>56</id>
         <rang>6</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>57</id>
         <rang>6</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>58</id>
         <rang>6</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>59</id>
         <rang>6</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>60</id>
         <rang>6</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>61</id>
         <rang>7</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>62</id>
         <rang>7</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>63</id>
         <rang>7</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>64</id>
         <rang>7</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>65</id>
         <rang>7</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>66</id>
         <rang>7</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>67</id>
         <rang>7</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>68</id>
         <rang>7</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>69</id>
         <rang>7</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>70</id>
         <rang>7</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>71</id>
         <rang>8</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>72</id>
         <rang>8</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>73</id>
         <rang>8</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>74</id>
         <rang>8</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>75</id>
         <rang>8</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>76</id>
         <rang>8</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>77</id>
         <rang>8</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>78</id>
         <rang>8</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>79</id>
         <rang>8</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>80</id>
         <rang>8</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>81</id>
         <rang>9</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>82</id>
         <rang>9</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>83</id>
         <rang>9</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>84</id>
         <rang>9</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>85</id>
         <rang>9</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>86</id>
         <rang>9</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>87</id>
         <rang>9</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>88</id>
         <rang>9</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>89</id>
         <rang>9</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>90</id>
         <rang>9</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>91</id>
         <rang>10</rang>
         <no>1</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>92</id>
         <rang>10</rang>
         <no>2</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>93</id>
         <rang>10</rang>
         <no>3</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>94</id>
         <rang>10</rang>
         <no>4</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>95</id>
         <rang>10</rang>
         <no>5</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>96</id>
         <rang>10</rang>
         <no>6</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>97</id>
         <rang>10</rang>
         <no>7</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>98</id>
         <rang>10</rang>
         <no>8</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>99</id>
         <rang>10</rang>
         <no>9</no>
+        <free>true</free>
       </SiegeItem>
       <SiegeItem>
         <id>100</id>
         <rang>10</rang>
         <no>10</no>
+        <free>true</free>
       </SiegeItem>
     </list_siege>
   </SalleItem>
